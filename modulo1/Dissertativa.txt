@@ -1,0 +1,30 @@
+﻿Solução Dissertativa
+
+
+
+
+#Entrada
+ 
+1. Faça a leitura e armazene o número n para ser multiplicado por 9.
+
+
+#Processamento
+
+
+1. Subtraia n por 1 (n-1) e armazene como primeiro dígito(n1).
+2. Subtraia 10 por n (10-n) e armazene como segundo dígito(n2).
+3. Realize (n1 x 10) + n2 e armazene como resultado final (resultado_final)
+
+
+#saída
+
+
+1. Mostre (resultado_final)
+2. Finalize
+
+
+
+
+9x4 = 4-1, 10-4
+9x4 = 3x10 + 6
+9x4 = 36
